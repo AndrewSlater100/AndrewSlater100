@@ -5,6 +5,13 @@
 - <b>File Integrity Monitor made with Python</b>
   - (https://github.com/andrewslater100)
 
+ <h2>📜 Certifications:</h2>
+- <b>CompTIA</b>
+  - A+
+  - Network+
+  - Security+
+  - CySA+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="AndrewSlater | Mastadon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />][mastadon]
