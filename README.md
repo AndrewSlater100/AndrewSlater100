@@ -1,6 +1,6 @@
 <h1>Hi, I'm Andrew! <br/><a href="https://github.com/andrewslater100">End-user Support Technician and </a><a href="https://www.linkedin.com/in/andrew-s-8a4894218">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Development Projects:</h2>
+<h2>:lock: Cybersecurity Development Projects:</h2>
 
 - <b>File Integrity Monitor made with Python</b>
   - (https://github.com/andrewslater100)
@@ -12,7 +12,7 @@
   - Security+
   - CySA+
 
-<h2> 🤳 Connect with me:</h2>
+<h2>:speech_balloon: Connect with me:</h2>
 
 [<img align="left" alt="AndrewSlater | Mastadon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />][mastadon]
 [<img align="left" alt="AndrewSlater | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
