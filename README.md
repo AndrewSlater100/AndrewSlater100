@@ -23,7 +23,7 @@
 [<img align="left" alt="AndrewSlater | Mastadon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />][mastadon]
 [<img align="left" alt="AndrewSlater | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[mastadon]: https://mastadon.social/@SecurityByAndrew
+[mastadon]: https://mastodon.social/@SecurityByAndrew
 [linkedin]: https://www.linkedin.com/in/andrew-s-8a4894218
 
 <!--**andrewslater100/andrewslater100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
