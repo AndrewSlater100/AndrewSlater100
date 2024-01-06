@@ -5,12 +5,18 @@
 - <b>File Integrity Monitor made with Python</b>
   - (https://github.com/andrewslater100)
 
- <h2>📜 Certifications:</h2>
-- <b>CompTIA</b>
-  - A+
-  - Network+
-  - Security+
-  - CySA+
+<h2>📜Certifications:</h2>
+
+  - <b>CompTIA:</b>
+    -  A+
+    -  Network+
+    -  Security+
+    -  CySA+
+
+<h2>📖Education:</h2>
+
+- <b>Bachelor of Science, Business Administration: Salisbury University</b>
+- <b>Associate of Science, Information Technology: Montgomery County Community College</b>
 
 <h2>:speech_balloon: Connect with me:</h2>
 
