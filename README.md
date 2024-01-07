@@ -20,11 +20,13 @@
 
 <h2>:speech_balloon: Connect with me:</h2>
 
-[<img align="left" alt="AndrewSlater | Mastadon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />][mastadon]
-[<img align="left" alt="AndrewSlater | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AndrewSlater | Mastadon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />][mastodon]
+[<img align="left" alt="AndrewSlater | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="AndrewSlater | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />][Blog]
 
-[mastadon]: https://infosec.exchange/@SecurityByAndrew
+[mastodon]: https://infosec.exchange/@SecurityByAndrew
 [linkedin]: https://www.linkedin.com/in/andrew-s-8a4894218
+[blog]: https://securitybyandrew.com
 
 <!--**andrewslater100/andrewslater100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
