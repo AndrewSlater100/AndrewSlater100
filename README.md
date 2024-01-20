@@ -13,6 +13,11 @@
     -  Security+
     -  CySA+
 
+<h2>:computer:Completed Labs:</h2>
+
+- <b><a href="https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro">So you want to be an SOC Analyst?</a></b>
+
+
 <h2>📖Education:</h2>
 
 - <b>Bachelor of Science, Business Administration: Salisbury University</b>
