@@ -5,7 +5,7 @@
 - <b>File Integrity Monitor made with Powershell</b>
   - (https://github.com/AndrewSlater100/FileIntegrityMonitor)
 
-<h2>📜Certifications:</h2>
+<h2>📜 Certifications:</h2>
 
   - <b>CompTIA:</b>
     -  A+
@@ -13,7 +13,7 @@
     -  Security+
     -  CySA+
 
-<h2>:computer:Completed Labs:</h2>
+<h2>:computer: Completed Labs:</h2>
 
 - <b><a href="https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro">So you want to be an SOC Analyst?</a></b>
 - <b><a href="https://learn.taggart-tech.com/p/python-for-defenders-pt1">Python For Defenders Part 1</a></b>
@@ -21,7 +21,7 @@
 - <b><a href="https://www.youtube.com/watch?v=s_o8dwzRlu4&ab_channel=TechWorldwithNana">Kubernetes Crash Course</a></b>
 
 
-<h2>📖Education:</h2>
+<h2>📖 Education:</h2>
 
 - <b>Bachelor of Science, Business Administration: Salisbury University</b>
 - <b>Associate of Science, Information Technology: Montgomery County Community College</b>
