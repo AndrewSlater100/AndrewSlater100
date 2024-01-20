@@ -16,6 +16,8 @@
 <h2>:computer:Completed Labs:</h2>
 
 - <b><a href="https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro">So you want to be an SOC Analyst?</a></b>
+- <b><a href="https://learn.taggart-tech.com/p/python-for-defenders-pt1">Python For Defenders Part 1</a></b>
+- <b><a href="https://learn.taggart-tech.com/p/python-for-defenders-pt2">Python For Defenders Part 2</a></b>
 
 
 <h2>📖Education:</h2>
