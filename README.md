@@ -18,6 +18,7 @@
 - <b><a href="https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro">So you want to be an SOC Analyst?</a></b>
 - <b><a href="https://learn.taggart-tech.com/p/python-for-defenders-pt1">Python For Defenders Part 1</a></b>
 - <b><a href="https://learn.taggart-tech.com/p/python-for-defenders-pt2">Python For Defenders Part 2</a></b>
+- <b><a href="https://www.youtube.com/watch?v=s_o8dwzRlu4&ab_channel=TechWorldwithNana">Kubernetes Crash Course</a></b>
 
 
 <h2>📖Education:</h2>
