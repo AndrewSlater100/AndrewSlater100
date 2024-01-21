@@ -3,7 +3,7 @@
 <h2>:lock: Cybersecurity Development Projects:</h2>
 
 - <b>File Integrity Monitor made with Powershell</b>
-  - (https://github.com/AndrewSlater100/FileIntegrityMonitor)
+  - https://github.com/AndrewSlater100/FileIntegrityMonitor
 
 <h2>📜 Certifications:</h2>
 
