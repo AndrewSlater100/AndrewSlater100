@@ -41,7 +41,10 @@
 [mastodon]: https://infosec.exchange/@SecurityByAndrew
 [linkedin]: https://www.linkedin.com/in/andrew-s-8a4894218
 [blog]: https://securitybyandrew.com
-
+<a rel="me" href="https://infosec.exchange/@SecurityByAndrew">Mastodon</a>
+{
+display: none;
+}
 <!--**andrewslater100/andrewslater100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
