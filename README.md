@@ -38,7 +38,7 @@
 [<img align="left" alt="AndrewSlater | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 [<img align="left" alt="AndrewSlater | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />][Blog]
 
-[mastodon]: <a rel="me" href="https://infosec.exchange/@SecurityByAndrew">Mastodon</a>
+[mastodon]: https://infosec.exchange/@SecurityByAndrew
 [linkedin]: https://www.linkedin.com/in/andrew-s-8a4894218
 [blog]: https://securitybyandrew.com
 
