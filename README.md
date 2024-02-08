@@ -41,7 +41,7 @@
 [mastodon]: https://infosec.exchange/@SecurityByAndrew
 [linkedin]: https://www.linkedin.com/in/andrew-s-8a4894218
 [blog]: https://securitybyandrew.com
-<FONT COLOR="WHITE"><a rel="me" href="https://infosec.exchange/@SecurityByAndrew">Mastodon</a></FONT>
+<FONT COLOR="FFFFFF"><a rel="me" href="https://infosec.exchange/@SecurityByAndrew">Mastodon</a></FONT>
 
 <!--**andrewslater100/andrewslater100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
