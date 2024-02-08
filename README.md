@@ -2,7 +2,7 @@
 
 <h2>:lock: Cybersecurity Development Projects:</h2>
 
-- <b>Identifying Google Chrome Memory Usage with Python</b>
+- <b>Identifying Google Chrome Memory Usage made with Python</b>
   - https://github.com/AndrewSlater100/ChromeMemoryUsage
 - <b>File Integrity Monitor made with Powershell</b>
   - https://github.com/AndrewSlater100/FileIntegrityMonitor
