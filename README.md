@@ -25,6 +25,8 @@
 - <b><a href="https://learn.taggart-tech.com/p/python-for-defenders-pt2">Python For Defenders Part 2</a></b>
 - <b><a href="https://www.youtube.com/watch?v=s_o8dwzRlu4&ab_channel=TechWorldwithNana">Kubernetes Crash Course</a></b>
 - <b><a href="https://www.youtube.com/watch?v=aqA6bktFHoY&ab_channel=JimSchultz">Active Directory Home Lab</a></b>
+- <b><a href="https://www.youtube.com/watch?v=3CfjoCQmpo8&t=278s&ab_channel=UnrealLabs">Wazuh SIEM Deployment</a></b>
+
 
 
 <h2>📖 Education:</h2>
